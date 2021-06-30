@@ -10,7 +10,8 @@ practice to write some records from learning coding.
 
 ---
 
-<img src='https://i.imgur.com/vUlR2Pi.jpg' width='150' height='200' alt='self_picture'>
+<img src='https://i.imgur.com/vUlR2Pi.jpg' width='150' alt='self_picture'>
+
 Name       : 吳柏翰 Mars Wu </br>
 e-mail     : marswu.dk.pi@gmail.com </br>
 Graduated  : 國立高雄大學應用經濟學系 </br>
